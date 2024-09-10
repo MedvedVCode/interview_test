@@ -31,12 +31,12 @@ import Badge from 'primevue/badge'
 import Chart from 'primevue/chart'
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyCKQNh29hjxkn58zEIq3LCBQEvSklou2sY',
-  authDomain: 'interviews-6bfb9.firebaseapp.com',
-  projectId: 'interviews-6bfb9',
-  storageBucket: 'interviews-6bfb9.appspot.com',
-  messagingSenderId: '371940341448',
-  appId: '1:371940341448:web:9b75548195375ef54a97fd'
+	apiKey: '',
+	authDomain: '',
+	projectId: '',
+	storageBucket: '',
+	messagingSenderId: '',
+	appId: ''
 }
 
 initializeApp(firebaseConfig)
